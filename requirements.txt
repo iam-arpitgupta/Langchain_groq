@@ -1,0 +1,14 @@
+groq
+cassio
+beautifulsoup4
+langchain-groq
+wikipedia
+arxiv
+langchainhub
+bs4
+pypdf
+chromadb
+sse_starlette
+faiss-cpu
+langchain-groq
+
